@@ -1,0 +1,6 @@
+appenabled=1
+type1=1
+type2=1
+type3=1
+type4=1
+type5=1
