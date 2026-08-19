@@ -1,4 +1,4 @@
-appenabled=0
+appenabled=1
 type1=1
 type2=1
 type3=1
