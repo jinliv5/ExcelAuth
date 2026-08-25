@@ -4,5 +4,5 @@ type2=1
 type3=1
 type4=1
 type5=1
-followdata=0
-revoked=设备码1,设备码2
+followupdata=0
+revoked=xxxxx1,xxxxx2
