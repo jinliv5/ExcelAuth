@@ -1,5 +1,8 @@
 appenabled=1
-type1=1
+type11=1
+type12=1
+type13=1
+type14=1
 type2=1
 type3=1
 type4=1
