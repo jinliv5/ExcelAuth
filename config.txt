@@ -7,5 +7,6 @@ type2=1
 type3=1
 type4=1
 type5=1
+outputorder=1
 followdata=0
-revoked=xxxxx1,xxxxx2
+revoked=XXXX-XXXX-XXXX-XXXX,YYYY-YYYY-YYYY-YYYY
