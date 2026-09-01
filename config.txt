@@ -9,4 +9,5 @@ type4=1
 type5=1
 outputorder=1
 followdata=1
+backup=1
 revoked=XXXX-XXXX-XXXX-XXXX,YYYY-YYYY-YYYY-YYYY
