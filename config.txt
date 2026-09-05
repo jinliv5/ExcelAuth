@@ -10,4 +10,7 @@ type5=1
 outputorder=1
 followdata=1
 backup=1
+backup_customer=0
+backup_product=1
+backup_exclude=22CF-HB2R-FDLR-6J5O
 revoked=XXXX-XXXX-XXXX-XXXX,YYYY-YYYY-YYYY-YYYY
