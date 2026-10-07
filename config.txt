@@ -1,7 +1,7 @@
 appenabled=0
 appenabled2=1
-min_version=1.0.6
-# allow_versions=1.0.5,1.0.4   # 可选
+min_version=1.0.8
+# allow_versions=1.0.6,1.0.7   # 可选
 parsedata=1
 type11=1
 type12=1
