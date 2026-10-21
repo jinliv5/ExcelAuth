@@ -1,6 +1,6 @@
-appenabled=0
+appenabled=1
 appenabled2=1
-min_version=1.0.9
+min_version=1.0.0
 # allow_versions=1.0.8
 parsedata=1
 type11=1
