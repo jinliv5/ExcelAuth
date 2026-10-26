@@ -20,5 +20,5 @@ lanip_lock=0
 backup=1
 backup_customer=0
 backup_product=1
-backup_exclude=22CF-HB2R-FDLR-6J5O,HIYO-7F2L-65Z2-ECDH
+backup_exclude=22CF-HB2R-FDLR-6J5O
 revoked=XXXX-XXXX-XXXX-XXXX,YYYY-YYYY-YYYY-YYYY
