@@ -1,0 +1,15 @@
+appenabled2 = 1
+allow_batch = 1
+allow_manual = 1
+allow_manual_proc = 1
+allow_admin = 1
+allow_num = 1
+allow_bubble = 1
+allow_inspect = 1
+allow_sheet = 1
+allow_preview = 1
+allow_gap = 1
+allow_stamp = 1
+min_version = 0.1.9
+# allow_versions = 0.1.9
+revoked = XXXX-XXXX-XXXX-XXXX
