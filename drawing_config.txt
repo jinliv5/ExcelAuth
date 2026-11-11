@@ -1,4 +1,4 @@
-appenabled2 = 1
+appenabled2 = 0
 allow_batch = 1
 allow_manual = 1
 allow_manual_proc = 1
