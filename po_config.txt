@@ -1,0 +1,7 @@
+appenabled2=1
+allow_process=1
+allow_data=1
+allow_setting=1
+min_version=
+allow_versions=
+revoked=
