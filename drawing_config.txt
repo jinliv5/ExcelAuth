@@ -10,6 +10,6 @@ allow_sheet = 1
 allow_preview = 1
 allow_gap = 1
 allow_stamp = 1
-min_version = 0.1.9
+min_version = 0.1.24
 # allow_versions = 0.1.9
 revoked = XXXX-XXXX-XXXX-XXXX
