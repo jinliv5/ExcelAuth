@@ -1,5 +1,5 @@
 appenabled2 = 1
-allow_batch = 1
+allow_batch = 0
 allow_manual = 1
 allow_manual_proc = 1
 allow_admin = 1
