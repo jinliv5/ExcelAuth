@@ -4,6 +4,6 @@ allow_cust_ge=0
 allow_process=1
 allow_data=1
 allow_setting=1
-min_version=
+min_version=0.1.1
 allow_versions=
 revoked=
