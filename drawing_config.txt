@@ -12,4 +12,4 @@ allow_gap = 1
 allow_stamp = 1
 min_version = 0.1.2
 # allow_versions = 0.1.9
-revoked = QO5V-W4FA-6PZL-LTTM,XXXX-XXXX-XXXX-XXXX
+revoked = XXXX-XXXX-XXXX-XXXX
