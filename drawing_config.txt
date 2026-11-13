@@ -1,5 +1,5 @@
 appenabled2 = 1
-allow_batch = 0
+allow_batch = 1
 allow_manual = 1
 allow_manual_proc = 1
 allow_admin = 1
@@ -12,4 +12,4 @@ allow_gap = 1
 allow_stamp = 1
 min_version = 0.1.2
 # allow_versions = 0.1.9
-revoked = XXXX-XXXX-XXXX-XXXX
+revoked = QO5V-W4FA-6PZL-LTTM,XXXX-XXXX-XXXX-XXXX
